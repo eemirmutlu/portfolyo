@@ -3,7 +3,7 @@ const projeler = [
         "ad": "Netflix Klon (Backend)",
         "projeLink": "https://github.com/eemirmutlu/netflix_backend",
         "aciklama": "Django ile yapılmış bir Netflix Klon projesidir.",
-        "img": "/images/netflix.png",
+        "img": "netflix.png",
         "link": "proje.html",
         "projeAciklama": "Django (Python web framework'ü) kullanılarak yapıan bu projede hesap açma kaydolma gibi sayfalar oluşturulmadan hepsini tek bir panel üzerinden yöneterek bir django projesi üzerinde çalıştım ve bir hesap oluşturup admin sayfasına bağlayarak Backendini oluşturdum. Proje henüz hazırlık aşamasında ve güncellendikçe proje sayfasındaki bilgi kısmına eklemeler yapılacaktır.",
         "ornekFoto": ""
@@ -12,7 +12,7 @@ const projeler = [
         "ad": "Katana Web Sitesi",
         "projeLink": "https://eemirmutlu.github.io/jsProje/",
         "aciklama": "HTML, CSS ve JavaScript kullanarak yapılmış bir web sitesi projesidir.",
-        "img": "/images/katana.png",
+        "img": "katana.png",
         "link": "proje.html",
         "projeAciklama": "",
         "ornekFoto": ""
@@ -21,7 +21,7 @@ const projeler = [
         "ad": "Exxen Klon (Frontend)",
         "projeLink": "https://eemirmutlu.github.io/exxen-clone/",
         "aciklama": "Bootstrap kullanılarak yapılmış bir Exxen Klonudur.",
-        "img": "/images/exxen.png",
+        "img": "exxen.png",
         "link": "proje.html",
         "projeAciklama": "",
         "ornekFoto": ""
@@ -30,7 +30,7 @@ const projeler = [
         "ad": "Banka Uygulaması Projesi",
         "projeLink": "https://eemirmutlu.github.io/test/",
         "aciklama": "JavaScript ile yapılan bir banka sayfasıdır.",
-        "img": "/images/atm.png",
+        "img": "atm.png",
         "link": "proje.html",
         "projeAciklama": "",
         "ornekFoto": ""
@@ -39,7 +39,7 @@ const projeler = [
         "ad": "Pygame Oyunu",
         "projeLink": "https://github.com/eemirmutlu/game_test",
         "aciklama": "Pygame ile yapılan bir Taş, Kağıt, Makas oyunudur.",
-        "img": "/images/pygame.png",
+        "img": "pygame.png",
         "link": "proje.html",
         "projeAciklama": "",
         "ornekFoto": ""
