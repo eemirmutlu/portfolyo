@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    text-align: center;
+}
+
+.hr-div {
+    text-align: center;
+}
+
+.hr {
+    width: 90%;
+    border: none;
+    border-top: 3px solid rgb(255, 255, 255);
+    margin: 0 auto;
+    /* margin-top: 75px; */
+}
+
+.left {
+    background-image: url(/images/projelerim.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: .5s all linear;
+}
+
+.left:hover {
+    transform: scale(1.01);
+    box-shadow: 5px 5px 5px gray;
+    text-shadow: 3px 3px 3px gray;
+}
+
+.left p {
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    /* text-shadow: 3px 3px 3px gray; */
+}
+
+.right {
+    background-image: url(/images/blog.png);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: .5s all linear;
+}
+
+.right:hover {
+    transform: scale(1.01);
+    box-shadow: 5px 5px 5px gray;
+    text-shadow: 3px 3px 3px gray;
+}
+
+.right p {
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    /* text-shadow: 3px 3px 3px gray; */
+}
+
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.footer-left,
+.footer-right {
+    flex: 1;
+    text-align: center;
+    list-style: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.vertical-hr {
+    height: 100px;
+    border: none;
+    border-left: 1px solid #ffffff;
+    margin: 0;
+}
